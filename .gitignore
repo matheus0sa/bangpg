@@ -1,0 +1,7 @@
+*.csv
+*.ipynb
+*cache*
+.env
+env
+build
+*egg-info
